@@ -1,0 +1,15 @@
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/bin/Debug/net7.0/MeetPrLang
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/bin/Debug/net7.0/MeetPrLang.deps.json
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/bin/Debug/net7.0/MeetPrLang.runtimeconfig.json
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/bin/Debug/net7.0/MeetPrLang.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/bin/Debug/net7.0/MeetPrLang.pdb
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.csproj.AssemblyReference.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.AssemblyInfoInputs.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.AssemblyInfo.cs
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.csproj.CoreCompileInputs.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/refint/MeetPrLang.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.pdb
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/MeetPrLang.genruntimeconfig.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/Debug/net7.0/ref/MeetPrLang.dll
