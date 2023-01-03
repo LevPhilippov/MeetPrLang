@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/MeetPrLang.csproj",
+      "projectUniqueName": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/lessson1/MeetPrLang.csproj",
       "projectName": "MeetPrLang",
-      "projectPath": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/MeetPrLang.csproj",
+      "projectPath": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/lessson1/MeetPrLang.csproj",
       "packagesPath": "/Users/leon/.nuget/packages/",
-      "outputPath": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/obj/",
+      "outputPath": "/Users/leon/Geekbrains/1 четверть/MeetPrLang/lessson1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leon/.nuget/NuGet/NuGet.Config"
