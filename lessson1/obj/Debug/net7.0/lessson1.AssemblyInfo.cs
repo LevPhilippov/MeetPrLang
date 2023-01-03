@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MeetPrLang")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lessson1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MeetPrLang")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MeetPrLang")]
+[assembly: System.Reflection.AssemblyProductAttribute("lessson1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lessson1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MeetPrLang/1.0.0": {
+      "lessson1/1.0.0": {
         "runtime": {
-          "MeetPrLang.dll": {}
+          "lessson1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MeetPrLang/1.0.0": {
+    "lessson1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
