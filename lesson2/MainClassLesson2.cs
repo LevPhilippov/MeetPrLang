@@ -1,9 +1,9 @@
 ﻿public class MainClassLesson2 {
 
     public static void Main() {
-        new Task10().execute();
+        // new Task10().execute();
         new Task13().execute();
-        new Task15().execute();
+        // new Task15().execute();
     }
 
        public static long readArgFromConsole(String message) {
@@ -16,6 +16,6 @@
         }
         return variable;
    }
-
+ 
 
 }

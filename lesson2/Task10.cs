@@ -1,7 +1,7 @@
 //Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 public class Task10 {
     public void execute() {
-        long userNumber = new Task13().execute();
+        long userNumber = Task13.checkNumberQuantity(MainClassLesson2.readArgFromConsole("Введите трехзначное положительное число"));
         long number = userNumber % 100;
 
         if (number < 10)
