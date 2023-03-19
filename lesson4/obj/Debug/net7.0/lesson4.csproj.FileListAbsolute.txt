@@ -1,0 +1,15 @@
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/bin/Debug/net7.0/lesson4
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/bin/Debug/net7.0/lesson4.deps.json
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/bin/Debug/net7.0/lesson4.runtimeconfig.json
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/bin/Debug/net7.0/lesson4.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/bin/Debug/net7.0/lesson4.pdb
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.csproj.AssemblyReference.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.AssemblyInfoInputs.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.AssemblyInfo.cs
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.csproj.CoreCompileInputs.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/refint/lesson4.dll
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.pdb
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/lesson4.genruntimeconfig.cache
+/Users/leon/Geekbrains/1 четверть/MeetPrLang/lesson4/obj/Debug/net7.0/ref/lesson4.dll
